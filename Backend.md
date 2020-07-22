@@ -25,4 +25,10 @@
 
 > It is an interoperable software system designed to support machine-to-machine interaction over a network.
 
-> 
+
+
+### Webservice Api development 
+
+> The requirements and business goals for a specific endpoint are laid down by the product manager in the form of a JSON file, based on which the endpoints are then to be defined and implemented by the backend developer. 
+
+> The JSON file consists of all the details defined for an endpoint such as endpoint definition, required inputs and the corresponding response messages etc., this helps the developer to create the endpoint.
