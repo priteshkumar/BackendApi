@@ -1,5 +1,7 @@
 ## JWT Token Details
 
+> JWT website [JWT link](https://jwt.io/#debugger-io)
+
 > JWT token is a JSON object used to verify authenticity of user of a web api/app.
 
 > It is generated when a user authenticates with web api via login procedure, and is sent back to client in HTTP header.
@@ -38,4 +40,5 @@
 
 
 `Once the user is authenticated(logged in), each subsequent request will include the JWT, allowing the user to access services and resources`
+
 
