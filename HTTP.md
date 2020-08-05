@@ -8,3 +8,5 @@
 
 > Encoded authorization string format:
  Authorization: Basic [insert base64 encoded string here]`
+
+> Base64 encoding website [base64 link] https://www.base64encode.org/
